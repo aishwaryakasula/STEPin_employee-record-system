@@ -4,4 +4,3 @@
 [![cppcheck-action](https://github.com/aishwaryakasula/STEPin_employee-record-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aishwaryakasula/STEPin_employee-record-system/actions/workflows/cppcheck.yml)
 ![code quality score](https://www.code-inspector.com/project/27739/score/svg?branch=main&service=github)
 ![code grade](https://www.code-inspector.com/project/27739/status/svg?branch=main&service=github)
-
