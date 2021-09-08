@@ -4,10 +4,8 @@
 
 | **Test ID** | **Keys**|**Description** |**Expected O/P** | **Actual O/P** | Execution Status |
 |-------------|---------|----------------|-----------------|----------------|------------------|
-|  TID 1      |1        | Adding Records | SUCCESS         | SUCCESS        | PASS	           |
-|  TID 2      |2        | delete Records | SUCCESS         | SUCCESS        | PASS	           |
-|  TID 3      |3        | display Records| SUCCESS         | SUCCESS        | PASS	           |
-|  TID 4      |4        | modify Record  | SUCCESS         | SUCCESS        | PASS	           |
-|  TID 5      |5        | exit           | SUCCESS         | SUCCESS        | PASS	           |
-
-
+|  TID 1      |A        | Adding Records | SUCCESS         | SUCCESS        | PASS	       |
+|  TID 2      |L        | List Records   | SUCCESS         | SUCCESS        | PASS	       |
+|  TID 3      |M        | Modify Records | SUCCESS         | SUCCESS        | PASS	       |
+|  TID 4      |P        | Payment Record | SUCCESS         | SUCCESS        | PASS	       |
+|  TID 5      |E        | Exit           | SUCCESS         | SUCCESS        | PASS	       |
