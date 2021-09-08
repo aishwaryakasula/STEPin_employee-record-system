@@ -8,4 +8,4 @@
 |  TID 2      |L        | List Records   | SUCCESS         | SUCCESS        | PASS	       |
 |  TID 3      |M        | Modify Records | SUCCESS         | SUCCESS        | PASS	       |
 |  TID 4      |P        | Payment Record | SUCCESS         | SUCCESS        | PASS	       |
-|  TID 5      |E        | Exit           | SUCCESS         | SUCCESS        | PASS	       |
+|  TID 5      |E        | Exit1          | SUCCESS         | SUCCESS        | PASS	       |
