@@ -7,24 +7,24 @@
 
 1.Add a new record 
 
-2.Delete a record.
+2.Delete a record
 
-3.Modify a record.
+3.Modify a record
 
-4.View all the records.
+4.View all the records
 
-5.Exit.
+5.Exit
 
 ## Data of employee
 Below are the fields captured using this system
 
-Name.
+Name
 
-Age.
+Age
 
-Salary.
+Salary
 
-Employee ID.
+Employee ID
 
 ## Benifits of the system
 
